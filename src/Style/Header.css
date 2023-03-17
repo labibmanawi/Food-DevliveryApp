@@ -1,0 +1,24 @@
+#head {
+
+    color: white;
+  
+    background-color: blue;
+  
+  }
+  
+  .link {
+  
+    color: white;
+  
+    margin-top: 20px;
+  
+  }
+  
+  .image_header {
+  
+    background-image: url("/backgroundhome.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+  
+  }
